@@ -11,6 +11,7 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$ TEST 1 2 3 4 
+  $END$ TEST
+  <p> 1 2 3 4 </p>
   </body>
 </html>
